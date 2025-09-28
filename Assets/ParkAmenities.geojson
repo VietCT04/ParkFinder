@@ -1,0 +1,1670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "NAME": "LABRADOR NATURE RESERVE",
+        "Amenities": [
+          "Sheltered areas",
+          "Toilets",
+          "Barbecue pits",
+          "Children's playground",
+          "Fitness corner"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "NAME": "BUKIT TIMAH NATURE RESERVE",
+        "Amenities": [
+          "Hiking Trails",
+          "Visitor Centre",
+          "Toilets",
+          "Biking Trails",
+          "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "NAME": "UPPER SELETAR RESERVOIR PARK",
+        "Amenities": [
+          "Benches",
+          "Toilet",
+          "Exercise corner",
+          "Car park"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "NAME": "UPPER PEIRCE RESERVOIR PARK",
+        "Amenities": [
+          "Shelters",
+          "Seats",
+          "Rest areas",
+          "Water coolers"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "NAME": "THOMSON NATURE PARK",
+        "Amenities": [
+          "Shelters",
+          "Toilets",
+          "Water coolers"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "NAME": "WINDSOR NATURE PARK",
+        "Amenities": [
+          "Walking Trails",
+          "Lookout points",
+          "Boardwalks",
+          "Car park"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "NAME": "CHESTNUT NATURE PARK",
+        "Amenities": [
+          "Visitor's center",
+          "Toilets",
+          "Water dispenser",
+          "Bike rental kiosk",
+          "Hiking and biking trails",
+          "Observation tower",
+          "Pump track"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "NAME": "RIFLE RANGE NATURE PARK",
+        "Amenities": [
+          "Natural Hiking Trails",
+          "Pavilion",
+          "Public restrooms",
+          "Shelter",
+          "Parking lot"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "NAME": "LOWER PEIRCE RESERVOIR PARK",
+        "Amenities": [
+          "Walking Trails",
+          "Boardwalk",
+          "Picnic Areas",
+          "Wildlife observation"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "NAME": "ZHENGHUA NATURE PARK",
+        "Amenities": [
+          "Multi-purpose event lawn",
+          "Children's play area",
+          "Exercise station",
+          "Pavilions and shelters",
+          "Dedicated jogging and cycling tracks"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "NAME": "BUKIT BATOK TOWN PARK",
+        "Amenities": [
+          "Walking Paths",
+          "Cycling Paths",
+          "Jogging Paths",
+          "Botanical garden",
+          "Butterfly garden",
+          "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "NAME": "BUKIT BATOK NATURE PARK",
+        "Amenities": [
+          "Walking Trails",
+          "Quarry Pond",
+          "Drinking Fountain",
+          "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "NAME": "LABRADOR NATURE PARK",
+        "Amenities": [
+          "Sheltered areas",
+          "Toilets",
+          "Barbecue pits",
+          "Children's playground",
+          "Fitness corner"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "NAME": "SPRINGLEAF NATURE PARK",
+        "Amenities": [
+          "Car park",
+          "Public toilet",
+          "Small cafe",
+          "Viewing platform",
+          "Bird watch area"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "NAME": "CENTRAL CATCHMENT NATURE RESERVE",
+        "Amenities": [
+          "Hiking Trails",
+          "Nature walks",
+          "Amenities Centre",
+          "Shelters",
+          "Fishing Area",
+          "Toilet"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "NAME": "PULAU SEKUDU",
+        "Amenities": [
+          "Bicycle rentals",
+          "Restaurants",
+          "Provision shops",
+          "Shower facilities"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "NAME": "PULAU UNUM",
+        "Amenities": [
+          "Bicycle rentals",
+          "Restaurants",
+          "Provision shops",
+          "Shower facilities"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "NAME": "BETING BRONOK",
+        "Amenities": [
+          "nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "NAME": "DAIRY FARM NATURE PARK",
+        "Amenities": [
+          "Mountain Biking Routes",
+          "Restrooms",
+          "Parking areas",
+          "Shelter huts"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "NAME": "SUNGEI BULOH WETLAND RESERVE",
+        "Amenities": [
+          "Information Kiosk",
+          "First aid Station",
+          "Toilet",
+          "Bird Observation Hide",
+          "Carpark",
+          "Drop-off Point",
+          "Shelters",
+          "Wheelchair Accessible Trail"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "NAME": "KRANJI COASTAL NATURE PARK",
+        "Amenities": [
+          "Coastal Trail",
+          "Carpark",
+          "Wheelchair Accessible"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "NAME": "KRANJI RESERVOIR PARK B",
+        "Amenities": [
+          "Fishing Areas",
+          "Toilets",
+          "Carpark"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "NAME": "KRANJI MARSHES",
+        "Amenities": [
+            "Coastal Trail",
+            "Carpark",
+            "Wheelchair Accessible"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "NAME": "SUNGEI BULOH SOUTHERN EXTENSION",
+        "Amenities": [
+          "Toilets",
+          "Rest shelter",
+          "Two multi-purpose rooms",
+          "Mangrove gallery"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "NAME": "KRANJI RESERVOIR PARK A",
+        "Amenities": [
+            "Fishing Areas",
+            "Toilets",
+            "Carpark"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "NAME": "BERLAYER CREEK",
+        "Amenities": [
+            "Toilets",
+            "Walking Trails",
+            "Carpark"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "NAME": "PULAU UBIN AND CHEK JAWA",
+        "Amenities": [
+          "None"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "NAME": "RAILWAY CORRIDOR RIFLE RANGE CONNECTOR",
+        "Amenities": [
+          "Fitness corners",
+          "Playground",
+          "Open Lawn",
+          "Boardwalks"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "NAME": "HINDHEDE NATURE PARK",
+        "Amenities": [
+          "Playground",
+          "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "NAME": "RAIL CORRIDOR",
+        "Amenities": [
+          "Walking paths",
+          "Jogging paths",
+          "Cycling paths",
+          "Heritage galleries",
+          "Cafes",
+          "Gardens",
+          "Play areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "NAME": "BUKIT CHERMIN BOARDWALK",
+        "Amenities": [
+          "Toilets",
+          "Wheelchair Friendly"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "NAME": "MACRITCHIE RESERVOIR PK",
+        "Amenities": [
+          "Restrooms",
+          "Showers",
+          "Lockers",
+          "Drinking fountains",
+          "Food and beverage kiosk (Gink-Go)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "NAME": "KALLANG LINEAR PARK",
+        "Amenities": [
+          "Toilets",
+          "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "NAME": "OLD UPPER ALJUNIED ROAD",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "NAME": "ARMENIAN STREET (FCP)",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "NAME": "CONNAUGHT DRIVE",
+        "Amenities": [
+          "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "NAME": "CANNING RISE (FCP)",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "NAME": "CAMP ROAD INTERIM PARK",
+        "Amenities": [
+          "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "NAME": "CHANGI WEST BOARDWALK",
+        "Amenities": [
+          "Open 24 hours",
+          "Wheelchair Accessible",
+          "Carpark",
+          "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "NAME": "CHANGI PT FERRY TERMINAL",
+        "Amenities": [
+          "Toilets",
+          "Shelter"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "NAME": "TANAH MERAH PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "NAME": "MARIAM WALK PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "NAME": "LOYANG VIEW PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "NAME": "JLN LIMAU MANIS PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "NAME": "JLN ANGIN LAUT PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "NAME": "MERA TERRACE PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "NAME": "EASTWOOD PK PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "NAME": "JLN CHEMPAKA KUNING PG",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "NAME": "JLN PARI BURONG PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "NAME": "JLN PARI DEDAP PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "NAME": "JLN PELATOK PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "NAME": "MERAGI RD PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "NAME": "SUNBIRD CIRCLE PG",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "NAME": "TURNHOUSE PK",
+        "Amenities": [
+          "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "NAME": "CHANGI EAST BOARDWALK (CHANGI FERRY TER)",
+        "Amenities": [
+          "Toilets",
+          "Rest shelter",
+          "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "NAME": "CHANGI POINT PROMENADE",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Seafront dining options"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "NAME": "CHANGI POINT WATERFRONT PK",
+        "Amenities": [
+            "Fishing jetty",
+            "Cycling and walking paths",
+            "Rest areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":58,
+      "properties": {
+        "NAME": "EAST COAST PARK",
+        "Amenities": [
+            "Barbecue pits",
+            "Chalets",
+            "Food centres",
+            "Cycling and inline skating tracks",
+            "Fishing areas (e.g., Bedok Jetty)",
+            "Playgrounds",
+            "Beach with swimming areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "NAME": "BEDOK TOWN PK",
+        "Amenities": [
+            "Jogging paths",
+            "Fitness corners",
+            "Playgrounds",
+            "Rest shelters"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "NAME": "BEDOK RESERVOIR PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Water Sport Facilities",
+            "Jogging Track",
+            "Playground",
+            "Fitness Stations",
+            "Open Fields"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "NAME": "SIGLAP LINEAR PK (UPP EC RD-M PARADE)",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "NAME": "EAST COAST TERRACE PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "NAME": "TELOK KURAU PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "NAME": "GEYLANG EAST PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "NAME": "BANGSAWAN PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "NAME": "AIDA PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "NAME": "CARPMAEL PARK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters",
+            "Beach"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "NAME": "ARTHUR PK",
+        "Amenities": [
+            "Toilets",
+            "Rest shelters"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "NAME": "KATONG PK",
+        "Amenities": [
+            "Playground",
+            "Fitness corner",
+            "Jogging track",
+            "Shelters",
+            "Toilets",
+            "Barbecue pits",
+            "Basketball court"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "NAME": "MARINE PARADE RD PK",
+        "Amenities": [
+            "Walking paths",
+            "Playground",
+            "Fitness Corner",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "NAME": "PASIR RIS PK",
+        "Amenities": [
+            "Mangrove Boardwalk",
+            "Fishing Pond",
+            "Cycling Track",
+            "Barbecue Pits",
+            "Picnic Tables",
+            "Playgrounf",
+            "Dining",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "NAME": "PASIR RIS TOWN PK",
+        "Amenities": [
+            "Marine Pond",
+            "Walking paths",
+            "Playground",
+            "Fitness Corner",
+            "Shelters",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "NAME": "SUN PLAZA PK",
+        "Amenities": [
+            "Barbecue pits",
+            "Walking paths",
+            "Amphitheatre",
+            "Parking",
+            "Playground",
+            "Fitness Corner",
+            "Shelters",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "NAME": "SG API API PK",
+        "Amenities": [
+            "Playground",
+            "Exercise corner",
+            "Viewing Platform",
+            "Pavillion",
+            "Walking/Cycling paths"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "NAME": "HORTPARK",
+        "Amenities": [
+            "Gardens",
+            "Dining Options",
+            "Event space",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "NAME": "PEK KIO PARK",
+        "Amenities": [
+            "Jogging Tracks",
+            "Plaza",
+            "Garden",
+            "Petanque Court"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "NAME": "ANG MO KIO TOWN GARDEN EAST",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "NAME": "ANG MO KIO TOWN GARDEN WEST",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "NAME": "BISHAN-ANG MO KIO PARK (POND GARDENS)",
+        "Amenities": [
+            "River",
+            "Hill",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "NAME": "BISHAN-ANG MO KIO PARK (RIVER PLAINS)",
+        "Amenities": [
+            "River",
+            "Hill",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "NAME": "TAVISTOCK AVE PK",
+        "Amenities": [
+            "Playground",
+            "Shelters",
+            "Fitness Corner"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "NAME": "THOMSON PK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "NAME": "PUNGGOL PK",
+        "Amenities": [
+            "Jogging Track",
+            "Cycling Track",
+            "Playgrounds",
+            "Lake",
+            "Pavillions and shelters",
+            "Vending Machines",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "properties": {
+        "NAME": "CONEY ISLAND PARK",
+        "Amenities": [
+            "Walking and Cycling Paths",
+            "Beach Areas",
+            "Bird Watching",
+            "Eco-friendly Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "properties": {
+        "NAME": "ALJUNIED PK",
+        "Amenities": [
+            "Playground",
+            "Amphitheatre",
+            "Outdoor Fitness",
+            "Pavillion"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "NAME": "FERNVALE PARK",
+        "Amenities": [
+            "Playground",
+            "Walking Paths",
+            "Open Spaces",
+            "Benches and Shelters"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "NAME": "SEMBAWANG PK",
+        "Amenities": [
+            "Natural Beach (Wak Hassan Beach)",
+            "Beaulieu House",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "NAME": "YISHUN PK",
+        "Amenities": [
+            "Playground",
+            "Fitness stations",
+            "Foot reflexology path",
+            "Allotment Gardens"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "NAME": "LOWER SELETAR RESERVOIR PARK",
+        "Amenities": [
+            "Walking and Cycling Paths",
+            "Lookout Points",
+            "Children's Play Areas",
+            "Water Sports Facilities",
+            "Toilets (Under reno)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "NAME": "YISHUN NEIGHBOURHOOD PK",
+        "Amenities": [
+            "Open Lawn",
+            "Playground",
+            "Fitness corner"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "NAME": "SPRINGSIDE PK",
+        "Amenities": [
+            "Recreational Spaces"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "NAME": "YISHUN POND PK",
+        "Amenities": [
+            "Activity Lawn",
+            "Walking paths",
+            "Lookout Tower"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "NAME": "MARSILING PARK",
+        "Amenities": [
+            "Allotment Gardens",
+            "Restored Mangroves",
+            "Viewing Tower",
+            "Chinese-style Pavilions",
+            "Activity Plaza and Amphitheater"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "NAME": "CHOA CHU KANG PK",
+        "Amenities": [
+            "Playground",
+            "Skate Plaza",
+            "Fitness Stations",
+            "Lawns and Event Spaces",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "properties": {
+        "NAME": "WOODLANDS TOWN PK EAST",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "properties": {
+        "NAME": "ADMIRALTY PK",
+        "Amenities": [
+            "Boardwalks",
+            "Fitness Stations",
+            "Running Track",
+            "Wifi Hotspots"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "properties": {
+        "NAME": "CORONATION PARK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "properties": {
+        "NAME": "HOLLAND VILLAGE PK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "properties": {
+        "NAME": "BIDADARI PK",
+        "Amenities": [
+            "Alkaff Lake",
+            "Heritage Walk",
+            "Adventure Playgrounds"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "properties": {
+        "NAME": "CAMBRIDGE PARK",
+        "Amenities": [
+            "Playground",
+            "Badminton Court",
+            "Exercise Station",
+            "Murals"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "properties": {
+        "NAME": "KHEAM HOCK PARK",
+        "Amenities": [
+            "Playground",
+            "Fitness Corner",
+            "Connection to Adam Park Connector"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "properties": {
+        "NAME": "TRAS LINK PK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "properties": {
+        "NAME": "TAMPINES ECO GREEN PK",
+        "Amenities": [
+            "Walking and Hiking Trails",
+            "Bird Watching Spots",
+            "Eco-friendly Facilities",
+            "Picnic Areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "properties": {
+        "NAME": "LENGKONG ENAM PARK",
+        "Amenities": [
+            "Open Green Spaces",
+            "Dog-Friendly Area",
+            "Shelters"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "properties": {
+        "NAME": "PUNGGOL WATERWAY PK",
+        "Amenities": [
+            "Nature Cove",
+            "Recreation Zone",
+            "Heritage Zone",
+            "Green Gallery"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "properties": {
+        "NAME": "LUXUS HILLS PARK",
+        "Amenities": [
+            "Nil"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "properties": {
+        "NAME": "PAYA LEBAR ROAD PARK",
+        "Amenities": [
+            "Nil"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "properties": {
+        "NAME": "WOODLANDS WATERFRONT PK",
+        "Amenities": [
+            "Waterfront Promenade",
+            "Playgrounds",
+            "Walking and cycling trails",
+            "Toilets",
+            "Shelters",
+            "Drinking Fountain"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "properties": {
+        "NAME": "KEMUNING PK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "properties": {
+        "NAME": "BROOK'S PARK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "properties": {
+        "NAME": "SEMBAWANG HOT SPRING PARK",
+        "Amenities": [
+          "Cascading foot bath pool",
+          "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "properties": {
+        "NAME": "UPPER SERANGOON PARK",
+        "Amenities": [
+            "Nil"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "properties": {
+        "NAME": "FORT CANNING PARK",
+        "Amenities": [
+            "Historical Sites",
+            "Gardens",
+            "Event space",
+            "Walking trails",
+            "Toilets"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "properties": {
+        "NAME": "THE FOOTHILLS FORT CANNING PK",
+        "Amenities": [
+            "Lawn at The Foothills",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "properties": {
+        "NAME": "ESPLANADE PK",
+        "Amenities": [
+            "Historical Landmarks",
+            "Scenic Walkways",
+            "Proximity to Attractions"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "properties": {
+        "NAME": "DUXTON PLAIN PK",
+        "Amenities": [
+            "Walking Paths",
+            "Playground",
+            "Historical Shrine"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "properties": {
+        "NAME": "PEARL'S HILL CITY PK",
+        "Amenities": [
+            "Reservoir",
+            "Walking Trails",
+            "Parking"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "properties": {
+        "NAME": "RAFFLES PLACE PK",
+        "Amenities": [
+            "Landscaped Greenery",
+            "Seating Areas",
+            "Dining Options"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "properties": {
+        "NAME": "TELOK AYER PK",
+        "Amenities": [
+            "Landscaped Lawns",
+            "Proximity to Cultural Sites",
+            "Seating Areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "properties": {
+        "NAME": "TELOK AYER GREEN",
+        "Amenities": [
+            "Historical Areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "properties": {
+        "NAME": "ANN SIANG HILL PK",
+        "Amenities": [
+            "Scenic Walkways"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "properties": {
+        "NAME": "HONG LIM PK",
+        "Amenities": [
+            "Open space"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "properties": {
+        "NAME": "TOA PAYOH TOWN PK",
+        "Amenities": [
+            "Landscaped Gardens",
+            "Bridges and Pavilions"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "properties": {
+        "NAME": "KALLANG RIVERSIDE PK",
+        "Amenities": [
+            "Water Sports Facilities",
+            "Jogging and Cycling Tracks",
+            "Fitness Equipment",
+            "Picnic Areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "properties": {
+        "NAME": "TIONG BAHRU PK",
+        "Amenities": [
+            "Playground",
+            "Green spaces"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "properties": {
+        "NAME": "MALCOLM PK",
+        "Amenities": [
+            "Walking trails",
+            "Natural Scenery"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "properties": {
+        "NAME": "KAMPONG GLAM PK",
+        "Amenities": [
+            "Proximity to Cultural Sites",
+            "Seating Areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "properties": {
+        "NAME": "NOVENA PK",
+        "Amenities": [
+            "Shelter",
+            "Open Spaces"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "properties": {
+        "NAME": "MOUNT EMILY PK",
+        "Amenities": [
+            "Playground",
+            "Walking Paths"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "properties": {
+        "NAME": "JUBILEE PARK (FCP)",
+        "Amenities": [
+            "Playground",
+            "Natural Scenery"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "properties": {
+        "NAME": "ISTANA PK",
+        "Amenities": [
+            "Festival Arch",
+            "Istana Heritage Gallery",
+            "My Art Space",
+            "Allotment Gardens",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "properties": {
+        "NAME": "WAR MEMORIAL PK",
+        "Amenities": [
+            "Civilian War Memorial",
+            "Pond and Greenery"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "properties": {
+        "NAME": "KIM SENG PK",
+        "Amenities": [
+            "Riverside Promenade",
+            "Fitness Stations",
+            "Children's Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "properties": {
+        "NAME": "NOVENA RISE PK",
+        "Amenities": [
+            "Green Spaces"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "properties": {
+        "NAME": "DHOBY GHAUT GREEN",
+        "Amenities": [
+            "Open Lawn",
+            "Playground"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "properties": {
+        "NAME": "BOUGAINVILLEA PK",
+        "Amenities": [
+            "Floral Displays",
+            "Walking paths"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "properties": {
+        "NAME": "SUNSET WAY PK",
+        "Amenities": [
+            "Seating areas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "properties": {
+        "NAME": "MAYFAIR PK",
+        "Amenities": [
+            "Seating areas",
+            "Children's Playground"
+        ]
+      }
+    }
+  ]
+}

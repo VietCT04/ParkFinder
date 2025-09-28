@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311976166765",
+    "project_id": "parkfinder-530ba",
+    "storage_bucket": "parkfinder-530ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311976166765:android:05f751dbff788118058664",
+        "android_client_info": {
+          "package_name": "com.example.park_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNO0N0l6gHrw4eor7kPaNz3jm8o2gCuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
